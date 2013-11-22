@@ -3,6 +3,8 @@
 ##Overview
 These are meaningless challenges in ruby. Most of the challenges will be shorter than 20 lines of code. The main goal is to have fun. You may even learn something in the process.
 
+Try not to peak before attempting the challenge!
+
 ##Contributing
 Want to add a challenge, or submit a solution? Send a pull request!
 
