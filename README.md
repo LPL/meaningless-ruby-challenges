@@ -12,4 +12,4 @@ All challenges will eventually include an additional parser.
 
 ##Challenges
 ###Challenge 1 - All caps
-Print "HELLO WORLD" without using any lowercase characters ("a-z"). 
+Print "HELLO WORLD" without using any lowercase characters ("a-z") in your code, "puts", "print", "p" are all unacceptable.
